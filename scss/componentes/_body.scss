@@ -17,20 +17,14 @@
 }
 
 .card-body {
-    background-color: #f1831b;
+    background-color: nth($colores: 5 ,);
 }
 
-.btn-custom {
-    background-color: var(--text-color);
-    color: white;
-    cursor: pointer;
-    width: min-content;
-    white-space: nowrap;
-}
 
-.btn-custom:hover {
-    background-color: var(--secondary-color1);
-    color: white;
+
+
+ 
+.btn{
+    background-color: blue "!important";
 }
-    
 
