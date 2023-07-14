@@ -1,12 +1,12 @@
 footer{
-    color: nth($colores, 4 );
+    color: nth($colores,4);
     .footer-text{
-        color: nth($colores, 8 );
+        color: nth($colores, 8);
     }
     .mapa {
-        width: get-map($mapa, width);
-        height: get-map($mapa, height);
-        border-radius: map-get($mapa, border-radius);
+        width: get-map($mapa, 1);
+        height: get-map($mapa, 2);
+        border-radius: map-get($mapa, 3);
     }
 }
          
@@ -14,6 +14,5 @@ footer{
     font-size: nth($size,4);
     color: nth($colores, 8);
 }
-
 
 
