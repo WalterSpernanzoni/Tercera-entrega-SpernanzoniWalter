@@ -36,14 +36,14 @@
   transform: scale(1.2); }
 
 header {
-  background-color: #eeeeee; }
+  background-color: #e5e7ec; }
   header h1 {
     margin: 0;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; }
 
 .bi-geo-alt {
   font-size: 16px !important;
-  color: red; }
+  color:#da106f; }
 
 .paisaje {
   object-fit: cover; }
@@ -57,7 +57,7 @@ header {
   background-color: #95e7d6; }
 
 footer {
-  color: #a5a1b0; }
+  background-color: #0c6583 !important }
   footer .footer-text {
     color: #eeeeee; }
   footer .mapa {
@@ -71,8 +71,9 @@ footer {
 
 .navbar {
   font-family: 'Raleway', sans-serif;
+  background-color: #eeeeee;
  }
 
 .btn{
-  background-color: blue;
+background-color: #3d67e4 ;
 }
