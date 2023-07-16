@@ -21,8 +21,14 @@
 }
 
  
-.btn{
-    background-color: nth($colores: 6,);
+.botn{
+    width: 75px;
+    height: 35px;
+    color: white;
+    border-radius: 7px;
+    border: 0px transparent;
+    background-color: nth($colores: 7) ;
+    
 }
 
 .navbar{

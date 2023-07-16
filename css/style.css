@@ -74,6 +74,12 @@ footer {
   background-color: #eeeeee;
  }
 
-.btn{
-background-color: #0c6583 ;
+.botn{
+  width: 75px;
+  height: 35px;
+  color: white;
+  border-radius: 7px;
+  border: 0px transparent;
+  background-color: #0c6583 ;
+  
 }
