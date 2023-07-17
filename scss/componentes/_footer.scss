@@ -1,17 +1,17 @@
 footer{
-    background-color: nth($colores 4,);
+    background-color: nth($colores, 4);
     .footer-text{
         color: nth($colores, 8);
-    }
+    };
     .mapa {
-        width: get-map($mapa, 1);
-        height: get-map($mapa, 2);
-        border-radius: map-get($mapa, 3);
+        width: nth($mapa, 1);
+        height: nth($mapa, 2);
+        border-radius: nth($mapa, 3);
     }
 }
          
 .bi {
-    font-size: nth($size,4);
+    font-size: nth($size, 4);
     color: nth($colores, 8);
 }
 .bi-geo-alt{

@@ -1,7 +1,7 @@
 {
   "name": "tercera-pre.entrega",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build-css": "node-sass --include-path scss ./scss/_style.scss ./css/style.css",

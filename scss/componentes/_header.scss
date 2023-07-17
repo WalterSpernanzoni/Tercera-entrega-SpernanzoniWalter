@@ -1,14 +1,8 @@
 header {
-    background-color: nth($colores: 8,);
+    background-color: nth($colores, 8);
 
 
     h1{
         margin: 0;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif 
-
-    
-
-        
-        
-    }
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', "Geneva", Verdana, sans-serif }
 }

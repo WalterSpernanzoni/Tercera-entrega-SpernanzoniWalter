@@ -1,6 +1,6 @@
 .bi-geo-alt {
     font-size: 16px !important;
-    color: nth($colores: 1);
+    color: nth($colores, 1);
 }
 
 .paisaje {
@@ -17,7 +17,7 @@
 }
 
 .card-body {
-    background-color: nth($colores: 10,);
+    background-color: nth($colores, 2);
 }
 
  
@@ -27,10 +27,10 @@
     color: white;
     border-radius: 7px;
     border: 0px transparent;
-    background-color: nth($colores: 7) ;
+    background-color: nth($colores, 9) ;
     
 }
 
 .navbar{
-    background-color: nth($colores: 9);
+    background-color: nth($colores, 10);
 }
